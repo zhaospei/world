@@ -24,7 +24,7 @@ import { remarkGithubCards, remarkReadingTime, remarkArxivCards } from './src/ut
 export default defineConfig({
   // Top-Level Options
   site: siteConfig.site,
-  // base: '/docs',
+  base: '/world',
   trailingSlash: 'never',
   output: 'static',
   // if you want deploy on vercel
