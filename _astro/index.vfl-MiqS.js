@@ -1,4 +1,4 @@
-import{c as s,r as o,m as a,u as i}from"./hoisted.nJrAQpd3.js";import"./_commonjsHelpers.DyVB06ra.js";import"./hoisted.33BSnmmm.js";const e=`<h2 id="站点配置">站点配置</h2>
+import{c as s,r as o,m as a,u as i}from"./hoisted.BXzScxhH.js";import"./_commonjsHelpers.DyVB06ra.js";import"./hoisted.33BSnmmm.js";const e=`<h2 id="站点配置">站点配置</h2>
 <p>客制化本主题需要调整较多的源代码。</p>
 <p>我们已经尽力将配置项集中在 <code>src/site.config.ts</code> 文件中，以方便用户进行修改，并集成了较多常见的社交媒体/工具 icon，如果你想要添加新的 icon，你需要自行修改源代码。</p>
 <p>你可以在全局搜索如下关键字来找到需要替换的文本：</p>

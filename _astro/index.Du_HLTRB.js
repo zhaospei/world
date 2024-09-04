@@ -1,4 +1,4 @@
-import{c as a,r as e,m as t,u as i}from"./hoisted.nJrAQpd3.js";import"./_commonjsHelpers.DyVB06ra.js";import"./hoisted.33BSnmmm.js";const s=`<h2 id="基本语法">基本语法</h2>
+import{c as a,r as e,m as t,u as i}from"./hoisted.BXzScxhH.js";import"./_commonjsHelpers.DyVB06ra.js";import"./hoisted.33BSnmmm.js";const s=`<h2 id="基本语法">基本语法</h2>
 <p>Markdown 是一种轻量级且易于使用的语法，用于为您的写作设计风格。</p>
 <h3 id="标题">标题</h3>
 <p>文章内容较多时，可以用标题分段：</p>

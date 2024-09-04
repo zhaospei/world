@@ -1,4 +1,4 @@
-const t="customize-zh/index.md",s="post",i="customize-zh",c=`
+const t="customize-zh/index.md",s="post",i="customize-zh",r=`
 ## 站点配置
 
 客制化本主题需要调整较多的源代码。
@@ -112,4 +112,4 @@ export default defineConfig({
   ...
 })
 \`\`\`
-`,r={title:"个人定制化指南",description:"astro-theme-pure 个人定制化指南",publishDate:new Date(17220672e5),coverImage:{src:new Proxy({src:"/_astro/thumbnail.H3t_xmcX.jpg",width:1600,height:719,format:"jpg",fsPath:"/home/runner/work/world/world/src/content/post/customize-zh/thumbnail.jpg"},{get(e,n,o){return n==="clone"?structuredClone(e):n==="fsPath"?"/home/runner/work/world/world/src/content/post/customize-zh/thumbnail.jpg":(e[n]!==void 0&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/home/runner/work/world/world/src/content/post/customize-zh/thumbnail.jpg"),e[n])}}),color:"#64574D"},draft:!1,tags:["waline","vercel","supabase"],language:"中文"},a={type:"content",filePath:"/home/runner/work/world/world/src/content/post/customize-zh/index.md",rawData:void 0};export{a as _internal,c as body,s as collection,r as data,t as id,i as slug};
+`,c={title:"个人定制化指南",description:"astro-theme-pure 个人定制化指南",publishDate:new Date(17220672e5),coverImage:{src:new Proxy({src:"/world/_astro/thumbnail.H3t_xmcX.jpg",width:1600,height:719,format:"jpg",fsPath:"/home/runner/work/world/world/src/content/post/customize-zh/thumbnail.jpg"},{get(e,n,o){return n==="clone"?structuredClone(e):n==="fsPath"?"/home/runner/work/world/world/src/content/post/customize-zh/thumbnail.jpg":(e[n]!==void 0&&globalThis.astroAsset&&globalThis.astroAsset?.referencedImages.add("/home/runner/work/world/world/src/content/post/customize-zh/thumbnail.jpg"),e[n])}}),color:"#64574D"},draft:!1,tags:["waline","vercel","supabase"],language:"中文"},a={type:"content",filePath:"/home/runner/work/world/world/src/content/post/customize-zh/index.md",rawData:void 0};export{a as _internal,r as body,s as collection,c as data,t as id,i as slug};

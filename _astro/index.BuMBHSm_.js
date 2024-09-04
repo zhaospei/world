@@ -1,4 +1,4 @@
-import{c as a,r as e,m as t,u as o}from"./hoisted.nJrAQpd3.js";import"./_commonjsHelpers.DyVB06ra.js";import"./hoisted.33BSnmmm.js";const s=`<h2 id="basic-syntax">Basic Syntax</h2>
+import{c as a,r as e,m as t,u as o}from"./hoisted.BXzScxhH.js";import"./_commonjsHelpers.DyVB06ra.js";import"./hoisted.33BSnmmm.js";const s=`<h2 id="basic-syntax">Basic Syntax</h2>
 <p>Markdown is a lightweight and easy-to-use syntax for styling your writing.</p>
 <h3 id="headers">Headers</h3>
 <p>When the content of the article is extensive, you can use headers to segment:</p>

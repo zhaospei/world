@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="/scripts/pretty-feed-v3.xsl" type="text/xsl"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:h="http://www.w3.org/TR/html4/"><channel><title>TDung&apos;s Site</title><description>Stay hungry, stay foolish</description><link>https://zhaospei.github.io/world</link><item><title>个人定制化指南</title><link>https://zhaospei.github.io/blog/customize-zh</link><guid isPermaLink="true">https://zhaospei.github.io/blog/customize-zh</guid><description>astro-theme-pure 个人定制化指南</description><pubDate>Sat, 27 Jul 2024 08:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;站点配置&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="/scripts/pretty-feed-v3.xsl" type="text/xsl"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:h="http://www.w3.org/TR/html4/"><channel><title>TDung&apos;s Site</title><description>Stay hungry, stay foolish</description><link>https://zhaospei.github.io</link><item><title>个人定制化指南</title><link>https://zhaospei.github.io/blog/customize-zh</link><guid isPermaLink="true">https://zhaospei.github.io/blog/customize-zh</guid><description>astro-theme-pure 个人定制化指南</description><pubDate>Sat, 27 Jul 2024 08:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;站点配置&lt;/h2&gt;
 &lt;p&gt;客制化本主题需要调整较多的源代码。&lt;/p&gt;
 &lt;p&gt;我们已经尽力将配置项集中在 &lt;code&gt;src/site.config.ts&lt;/code&gt; 文件中，以方便用户进行修改，并集成了较多常见的社交媒体/工具 icon，如果你想要添加新的 icon，你需要自行修改源代码。&lt;/p&gt;
 &lt;p&gt;你可以在全局搜索如下关键字来找到需要替换的文本：&lt;/p&gt;
@@ -92,7 +92,7 @@ export default defineConfig({
   ...
 })
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded><h:img src="/_astro/thumbnail.H3t_xmcX.jpg"/><enclosure url="/_astro/thumbnail.H3t_xmcX.jpg"/></item><item><title>Personalized Customization Guide</title><link>https://zhaospei.github.io/blog/customize</link><guid isPermaLink="true">https://zhaospei.github.io/blog/customize</guid><description>astro-theme-pure Personalized Customization Guide</description><pubDate>Sat, 27 Jul 2024 08:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Site Configuration&lt;/h2&gt;
+</content:encoded><h:img src="/world/_astro/thumbnail.H3t_xmcX.jpg"/><enclosure url="/world/_astro/thumbnail.H3t_xmcX.jpg"/></item><item><title>Personalized Customization Guide</title><link>https://zhaospei.github.io/blog/customize</link><guid isPermaLink="true">https://zhaospei.github.io/blog/customize</guid><description>astro-theme-pure Personalized Customization Guide</description><pubDate>Sat, 27 Jul 2024 08:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Site Configuration&lt;/h2&gt;
 &lt;p&gt;Customizing this theme requires adjusting a significant amount of source code.&lt;/p&gt;
 &lt;p&gt;We have made efforts to centralize the configuration options in the &lt;code&gt;src/site.config.ts&lt;/code&gt; file for user convenience and have integrated a variety of common social media/tools icons. If you want to add new icons, you will need to modify the source code yourself.&lt;/p&gt;
 &lt;p&gt;You can globally search for the following keywords to find the text that needs to be replaced:&lt;/p&gt;
@@ -186,7 +186,7 @@ export default defineConfig({
   ...
 })
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded><h:img src="/_astro/thumbnail.H3t_xmcX.jpg"/><enclosure url="/_astro/thumbnail.H3t_xmcX.jpg"/></item><item><title>Markdown 语法支持</title><link>https://zhaospei.github.io/blog/markdown-zh</link><guid isPermaLink="true">https://zhaospei.github.io/blog/markdown-zh</guid><description>Markdown 是一种轻量级的「标记语言」。</description><pubDate>Fri, 26 Jul 2024 08:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;基本语法&lt;/h2&gt;
+</content:encoded><h:img src="/world/_astro/thumbnail.H3t_xmcX.jpg"/><enclosure url="/world/_astro/thumbnail.H3t_xmcX.jpg"/></item><item><title>Markdown 语法支持</title><link>https://zhaospei.github.io/blog/markdown-zh</link><guid isPermaLink="true">https://zhaospei.github.io/blog/markdown-zh</guid><description>Markdown 是一种轻量级的「标记语言」。</description><pubDate>Fri, 26 Jul 2024 08:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;基本语法&lt;/h2&gt;
 &lt;p&gt;Markdown 是一种轻量级且易于使用的语法，用于为您的写作设计风格。&lt;/p&gt;
 &lt;h3&gt;标题&lt;/h3&gt;
 &lt;p&gt;文章内容较多时，可以用标题分段：&lt;/p&gt;
@@ -422,7 +422,7 @@ $$&lt;/p&gt;
 &lt;h2&gt;内嵌 Astro 组件&lt;/h2&gt;
 &lt;p&gt;源代码位于 &lt;code&gt;src/components&lt;/code&gt; 目录下，一般不用于写作，而是用于页面的客制化。&lt;/p&gt;
 &lt;p&gt;你可以仿照现有组件的写法，自行添加新的组件。&lt;/p&gt;
-</content:encoded><h:img src="/_astro/thumbnail.HAXFr_hw.jpg"/><enclosure url="/_astro/thumbnail.HAXFr_hw.jpg"/></item><item><title>Markdown Syntax Support</title><link>https://zhaospei.github.io/blog/markdown</link><guid isPermaLink="true">https://zhaospei.github.io/blog/markdown</guid><description>Markdown is a lightweight &quot;markup language.&quot;</description><pubDate>Fri, 26 Jul 2024 08:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Basic Syntax&lt;/h2&gt;
+</content:encoded><h:img src="/world/_astro/thumbnail.HAXFr_hw.jpg"/><enclosure url="/world/_astro/thumbnail.HAXFr_hw.jpg"/></item><item><title>Markdown Syntax Support</title><link>https://zhaospei.github.io/blog/markdown</link><guid isPermaLink="true">https://zhaospei.github.io/blog/markdown</guid><description>Markdown is a lightweight &quot;markup language.&quot;</description><pubDate>Fri, 26 Jul 2024 08:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Basic Syntax&lt;/h2&gt;
 &lt;p&gt;Markdown is a lightweight and easy-to-use syntax for styling your writing.&lt;/p&gt;
 &lt;h3&gt;Headers&lt;/h3&gt;
 &lt;p&gt;When the content of the article is extensive, you can use headers to segment:&lt;/p&gt;
@@ -659,4 +659,4 @@ Provides advice on the risks or negative consequences of certain actions.&lt;/p&
 &lt;h2&gt;Embedding Astro Components&lt;/h2&gt;
 &lt;p&gt;The source code is located in the &lt;code&gt;src/components&lt;/code&gt; directory, generally not for writing, but for page customization.&lt;/p&gt;
 &lt;p&gt;You can add new components by following the writing style of existing components.&lt;/p&gt;
-</content:encoded><h:img src="/_astro/thumbnail.HAXFr_hw.jpg"/><enclosure url="/_astro/thumbnail.HAXFr_hw.jpg"/></item></channel></rss>
+</content:encoded><h:img src="/world/_astro/thumbnail.HAXFr_hw.jpg"/><enclosure url="/world/_astro/thumbnail.HAXFr_hw.jpg"/></item></channel></rss>

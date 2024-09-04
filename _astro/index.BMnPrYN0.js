@@ -1,4 +1,4 @@
-import{c as o,r as i,m as s,u as a}from"./hoisted.nJrAQpd3.js";import"./_commonjsHelpers.DyVB06ra.js";import"./hoisted.33BSnmmm.js";const n=`<h2 id="site-configuration">Site Configuration</h2>
+import{c as o,r as i,m as s,u as a}from"./hoisted.BXzScxhH.js";import"./_commonjsHelpers.DyVB06ra.js";import"./hoisted.33BSnmmm.js";const n=`<h2 id="site-configuration">Site Configuration</h2>
 <p>Customizing this theme requires adjusting a significant amount of source code.</p>
 <p>We have made efforts to centralize the configuration options in the <code>src/site.config.ts</code> file for user convenience and have integrated a variety of common social media/tools icons. If you want to add new icons, you will need to modify the source code yourself.</p>
 <p>You can globally search for the following keywords to find the text that needs to be replaced:</p>
